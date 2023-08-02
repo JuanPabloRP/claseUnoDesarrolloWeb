@@ -105,5 +105,6 @@ if (edad <= 9) console.log('tai chiquito');
 else if (edad >= 9 && edad <= 18) console.log('tai mediano');
 else console.log('tai viejo');
 
+console.log(`1 + true === ${1 + true} `);
 
-console.log(`1 + true === ${1 + true} ` );
+console.log('fin xd');
