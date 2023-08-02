@@ -89,6 +89,13 @@ while (i < 5) {
 	i++;
 }
 
+console.log("do while");
+let value = 1;
+do {
+	console.log(`${value} es menor a 0`);
+	value++;
+} while (value <= 0);
+
 console.log('\nLo que falte xd: ');
 
 let valor = 500 && true;
